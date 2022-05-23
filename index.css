@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Grape+Nuts&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+
+.navfont {
+	font-family: 'Grape Nuts', cursive;
+}
+
+.aboutmefont {
+	font-family: 'Dancing Script', cursive;
+}
+
+.carousel {
+	width:300px;
+  height:600px;
+}
